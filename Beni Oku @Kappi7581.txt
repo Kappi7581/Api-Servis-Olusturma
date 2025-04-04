@@ -1,0 +1,103 @@
+...............................ஜ۩۞۩ஜ..................................
+Bu Api Server Creator Tamamıyla Kappi7581'e Ait Olup,
+@Kappi7581 Tarafından Yazılıp Publanmıştır!
+...............................ஜ۩۞۩ஜ..................................
+
+─────────Api Sunucusu Linkleri────────────
+http://localhost:${PORT}/api/kappi/adres?tc=11111111110&auth=t.me/Kappi7581Dev
+http://localhost:${PORT}/api/kappi/adres2015?tc=11404305356&auth=t.me/Kappi7581Dev
+http://localhost:${PORT}/api/kappi/adsoyad?ad=ROKET&soyad=ATAR&auth=t.me/Kappi7581Dev
+http://localhost:${PORT}/api/kappi/adsoyadpro?ad=ROKET&soyad=ATAR&il=BURSA&ilce=OSMANGAZİ&auth=t.me/Kappi7581Dev
+http://localhost:${PORT}/api/kappi/aile?tc=27727166918&auth=t.me/Kappi7581Dev
+http://localhost:${PORT}/api/kappi/ailepro?tc=27727166918&auth=t.me/Kappi7581Dev
+http://localhost:${PORT}/api/kappi/akp?tc=48364813782&auth=t.me/Kappi7581Dev
+http://localhost:${PORT}/api/kappi/bin?bin=548793&auth=t.me/Kappi7581Dev
+http://localhost:${PORT}/api/kappi/bolgetapu?il=ADANA&ilce=ALADAĞ&mahalle=AKPINAR&auth=t.me/Kappi7581Dev
+http://localhost:${PORT}/api/kappi/decend?yazi=kappi&donusumturu=base64_encode&auth=t.me/Kappi7581Dev
+http://localhost:${PORT}/api/kappi/dns?url=trendyol.com&auth=t.me/Kappi7581Dev
+http://localhost:${PORT}/api/kappi/facebook?gsm=05375890913&auth=t.me/Kappi7581Dev
+http://localhost:${PORT}/api/kappi/finder?terim=riot&auth=t.me/Kappi7581Dev
+http://localhost:${PORT}/api/kappi/gpt?soru=MERHABA&auth=t.me/Kappi7581Dev
+http://localhost:${PORT}/api/kappi/gsmtc?gsm=5070248311&auth=t.me/Kappi7581Dev
+http://localhost:${PORT}/api/kappi/convert?doviz=BTC&cevirilecekdoviz=USDT&miktar=1&auth=t.me/Kappi7581Dev
+http://localhost:${PORT}/api/kappi/ip?ip=193.42.103.147&auth=t.me/Kappi7581Dev
+http://localhost:${PORT}/api/kappi/istadaparsel?mahalle=ABDİÇELEBİ&ada=2385&parsel=171&auth=t.me/Kappi7581Dev
+http://localhost:${PORT}/api/kappi/istapu?tc=52099059896&auth=t.me/Kappi7581Dev
+http://localhost:${PORT}/api/kappi/istbolgetapu?mahalle=ABDİÇELEBİ&auth=t.me/Kappi7581Dev
+http://localhost:${PORT}/api/kappi/isyeri?tc=11144576054&auth=t.me/Kappi7581Dev
+http://localhost:${PORT}/api/kappi/kocaadaparsel?mahalle=AKSIĞIN&ada=125&parsel=6&auth=t.me/Kappi7581Dev
+http://localhost:${PORT}/api/kappi/kocatapubolge?mahalle=AKSIĞIN&auth=t.me/Kappi7581Dev
+http://localhost:${PORT}/api/kappi/kocatapu?tc=50563620726&auth=t.me/Kappi7581Dev
+http://localhost:${PORT}/api/kappi/mail?email=kappix@gmail.com&auth=t.me/Kappi7581Dev
+http://localhost:${PORT}/api/kappi/okulno?tc=10955162098&auth=t.me/Kappi7581Dev
+http://localhost:${PORT}/api/kappi/operator?gsm=5070248311&auth=t.me/Kappi7581Dev
+http://localhost:${PORT}/api/kappi/kazi?url=https://riotgames.com&auth=t.me/Kappi7581Dev
+http://localhost:${PORT}/api/kappi/screenshot?url=https://t.me/kappix?&auth=t.me/Kappi7581Dev
+http://localhost:${PORT}/api/kappi/sifreolusturucu?uzunluk=10&auth=t.me/Kappi7581Dev
+http://localhost:${PORT}/api/kappi/sulale?tc=11404305356&auth=t.me/Kappi7581Dev
+http://localhost:${PORT}/api/kappi/sulalepro?tc=11404305356&auth=t.me/Kappi7581Dev
+http://localhost:${PORT}/api/kappi/tapu?tc=11404305356&auth=t.me/Kappi7581Dev
+http://localhost:${PORT}/api/kappi/tapuadaparsel?il=ADANA&ilce=ALADAĞ&mahalle=AKPINAR&ada=186&parsel=1&auth=t.me/Kappi7581Dev
+http://localhost:${PORT}/api/kappi/tapubolge?mahalle=ZÜMRÜTOVA&auth=t.me/Kappi7581Dev
+http://localhost:${PORT}/api/kappi/tc?tc=11404305356&auth=t.me/Kappi7581Dev
+http://localhost:${PORT}/api/kappi/tcgsm?tc=11404305356&auth=t.me/Kappi7581Dev
+http://localhost:${PORT}/api/kappi/tcpro?tc=11404305356&auth=t.me/Kappi7581Dev
+http://localhost:${PORT}/api/kappi/vesika?tc=19007791262&auth=t.me/Kappi7581Dev
+http://localhost:${PORT}/api/kappi/yabanci?gsm=07504489985&auth=t.me/Kappi7581Dev
+─────────────────────────────────────
+
+─────────Api Sunucusu İçin Gerekli Program 1───────────────
+> Node.js Tavsiye Edilen (En Son Sürüm) Kendi Sitesinden, İndirip Kurulumu Başlatınız.
+> Kurulum Sırasında, Önünüz'e Gelen Pencerede'ki Kutuya Basarak Tik Veriniz,
+> Bu Gerekli Olan Dosyaların'da Yüklenmesini Sağlayacaktır!
+> Kurulum Bittikten Sonra Power Shell Ekranları Açılacak Ve, Gerekli Yüklemeler Yapılcaktır Tahmini 4-5 Dk,
+> Yüklemeler Yapıldıktan Sonra Power Shell Ekranında, Press Any Key (Herhangi Bir Tuş'a Basın) Yazısı Yazması Gerekmektedir!
+> Bu Yazıyı Gördükten Sonra, Herhangi Bir Tuş'a Basarak, Kurulumu Bitirebilirsiniz.
+───────────────────────────────────────────────────
+
+─────────Api Sunucusu İçin Gerekli Program 2───────────────
+> Xampp Tavsiye Edilen (En Son Sürüm) Kendi Sitesinden, İndirip Kurulumu Başlatınız.
+> Kurulum Bittikten Sonra, Xampp Control Panel'i Açılacaktır.
+> Açılan Panelden Explorer (Kaşif) Butonu'na Basınız, Sonra O Buton Sizi Xampp'in Ana Klasörü'ne Atacaktır.
+> O Klasör İçerisinden Mysql Oradan'da Data Klasörü'ne Giriniz.
+> Evet Şimdi Data Klasörü'nün İçerisine Datalarınızı Sürükleyerek Bırakın!
+> Örnek Datalar Şu Şekil'de Olmalı.
+101m Klasörü Olucak, İçeriğide Altta'ki Gibi Olacak.
+|
+|----101m.frm
+|----101m.myd
+|----101m.myı
+|----db.opt
+> 25m Okul No Dosyası'nı İse Sürükleyerek Data Klasörü'ne Bırakın.
+> Örnek Dosya Şu Şekil'de Olmalı.
+> 25m_okulno.sql Dosyası Olucak.
+───────────────────────────────────────────────────
+
+─────────Api Sunucusu İçin Gerekli Kütüphaneler────────
+> Api Sunucusu Kodları'nın Bulunduğu Klasör'e Girip yukleyici.bat Dosyası'nı Çalıştırınız.
+> Bunu Yaparak Api Sunucusu İçin Gerekli Olan Paketler'i, Otomatik Olarak İndirmiş Olacaksınız!
+──────────────────────────────────────────────
+
+──────Api Sunucusu Kişiselleştirme Ve Gerekli Entegrasyon Ayarları───────────────────
+> Api Sunucusu Kodları'nın Bulunduğu Klasör'e Girip .env Dosyası'nı Not Defteri İle Açınız.
+> Sonra Deiştirmek İstediğiniz Yerleri Değiştiriniz.
+> Örnek: PORT Değeri Ben Port Olarak 3000'i Seçtim Siz Farkli Bir Port Seçebilirsiniz.
+> DEFAULT_DISK Olarak İse C Diski'ni Yazdım, Xampp'i Nereye Kurduysanız Ora'ya O Diski Yazın.
+> Diğerleri İse Api Keyler Eğer Zamanla Ölürse Api Keyler, 
+> Şu Alttaki Linklerden Api Sağlayıcıları'na Kayıt Olarak Free Api Key Alıp Değiştirebilirsiniz.
+> Mail Checker Ve Operator Checker İçin: https://abstractapi.com
+> Gpt İçin: https://deepinfra.com
+> Kayıt Olduktan Sonra, Free Api Key Yeri Olur Oradan Api Keyinizi Alıp, 
+> .env Dosyasındaki Gerekli Api İle Değiştirerek, Api Keylerinizi Tazeliyebilirsiniz.
+───────────────────────────────────────────────────────────────────────
+─────────Api Sunucusu Başlatma────────────
+> Xampp Kontrol Panelinden Mysql Yeri'ne Start Veriniz. Sonra,
+> Api Sunucusu Kodları'nın Bulunduğu Klasör'e Girip calistir.bat Dosyası'nı Çalıştırınız.
+> Bunu Yaparak Api Sunucusu'nu Çalıştırmış Olacaksınız!
+─────────────────────────────────────
+
+─────────Destek────────
+https://t.me/Kappi7581
+https://t.me/Kappi7581Dev
+https://github.com/Kappi7581
+──────────────────────
