@@ -3,6 +3,8 @@ Bu Api Server Creator Tamamıyla Kappi7581'e Ait Olup,
 @Kappi7581 Tarafından Yazılıp Publanmıştır!
 ...............................ஜ۩۞۩ஜ..................................
 
+Önemli Not = dosyadaki yükleyici bat da 1 kutuphaneyi unutmusum githuba koydum yukleyici_fix.bat ı çalıştırın onun yerine
+
 ─────────Api Sunucusu Linkleri────────────
 http://localhost:${PORT}/api/kappi/adres?tc=11111111110&auth=t.me/Kappi7581Dev
 http://localhost:${PORT}/api/kappi/adres2015?tc=11404305356&auth=t.me/Kappi7581Dev
